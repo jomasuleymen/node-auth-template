@@ -1,0 +1,9 @@
+{
+	"jwtKey": "jsonWebTokenKey",
+	"dbConfig": {
+		"url": "mongodb://localhost:27017",
+		"dbName": "tempdb",
+		"user": "root",
+		"password": "password"
+	}
+}
